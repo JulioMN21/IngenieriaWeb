@@ -1,0 +1,29 @@
+commit 7c1fe98e7426cdd06d15f34d2c39131b2816fd17
+Author: Julio Morales <JulioMN.0102@gmail.com>
+Date:   Wed Jul 5 08:53:19 2017 -0600
+
+    Se inserto CSS en el proyecto
+
+commit 39fe4d2543b736e0d199df0ce5da3b93c6bae68d
+Author: Julio Morales <JulioMN.0102@gmail.com>
+Date:   Wed Jul 5 08:48:52 2017 -0600
+
+    Se inserto un footer al proyecto
+
+commit cb50ba6b84a66aa4cda86ce8508c0c59b99ed19c
+Author: Julio Morales <JulioMN.0102@gmail.com>
+Date:   Wed Jul 5 08:47:17 2017 -0600
+
+    Inserccion de Parrafo e Imagen
+
+commit 312f3b99fd2575665f5490dcbaffba19a5765001
+Author: Julio Morales <JulioMN.0102@gmail.com>
+Date:   Wed Jul 5 08:45:06 2017 -0600
+
+    Titulo del proyecto
+
+commit 976fa0892755287cf0632731582a1f8931354e86
+Author: Julio Morales <JulioMN.0102@gmail.com>
+Date:   Wed Jul 5 08:43:54 2017 -0600
+
+    Inicio de la estructura del proyecto
